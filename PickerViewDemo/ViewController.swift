@@ -9,11 +9,22 @@ import UIKit
 
 class ViewController: UIViewController {
 
+//    @IBOutlet var picture: UIImage!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+//        var interfaceOrientation: UIInterfaceOrientation
+        
+//        class UITraitCollection : NSObject {
+//            init(horizontalSizeClass: UIUserInterfaceSizeClass) {
+//
+//            }
+//            init(verticalSizeClass: UIUserInterfaceSizeClass) {
+//
+//            }
+
     }
-
-
+    
+    
+    
 }
 
