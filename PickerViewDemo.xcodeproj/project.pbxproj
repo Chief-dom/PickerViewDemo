@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F25AD18D2636B93300C886C8 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25AD18C2636B93300C886C8 /* Student.swift */; };
+		F25AD1902636C1A800C886C8 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25AD18F2636C1A800C886C8 /* File.swift */; };
+		F25AD1932637441E00C886C8 /* AVGViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25AD1922637441E00C886C8 /* AVGViewController.swift */; };
 		F2E852E1262F55B400CBA332 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E852E0262F55B400CBA332 /* AppDelegate.swift */; };
 		F2E852E3262F55B400CBA332 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E852E2262F55B400CBA332 /* SceneDelegate.swift */; };
 		F2E852E5262F55B400CBA332 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E852E4262F55B400CBA332 /* ViewController.swift */; };
@@ -17,6 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F25AD18C2636B93300C886C8 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		F25AD18F2636C1A800C886C8 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		F25AD1922637441E00C886C8 /* AVGViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVGViewController.swift; sourceTree = "<group>"; };
 		F2E852DD262F55B400CBA332 /* PickerViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PickerViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E852E0262F55B400CBA332 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2E852E2262F55B400CBA332 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +72,9 @@
 				F2E852EB262F55B600CBA332 /* LaunchScreen.storyboard */,
 				F2E852EE262F55B600CBA332 /* Info.plist */,
 				F2E9A4352631B89D006F4726 /* otherViewController.swift */,
+				F25AD18C2636B93300C886C8 /* Student.swift */,
+				F25AD18F2636C1A800C886C8 /* File.swift */,
+				F25AD1922637441E00C886C8 /* AVGViewController.swift */,
 			);
 			path = PickerViewDemo;
 			sourceTree = "<group>";
@@ -141,8 +150,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2E852E5262F55B400CBA332 /* ViewController.swift in Sources */,
+				F25AD1902636C1A800C886C8 /* File.swift in Sources */,
 				F2E9A4362631B89D006F4726 /* otherViewController.swift in Sources */,
+				F25AD1932637441E00C886C8 /* AVGViewController.swift in Sources */,
 				F2E852E1262F55B400CBA332 /* AppDelegate.swift in Sources */,
+				F25AD18D2636B93300C886C8 /* Student.swift in Sources */,
 				F2E852E3262F55B400CBA332 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
